@@ -2,3 +2,4 @@
 3x3 chess board generates valid moves
 
 Generate all possible moves for a 3x3 chess board with limited pieces and save them into the "screenshots" folder.
+Default depth for moves is 2 but it is adjustable.
